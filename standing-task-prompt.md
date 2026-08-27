@@ -13,7 +13,7 @@ You are running an unattended daily task for Ronish, founder of Artha Equities. 
 
 ## Sources for today's run
 
-1. **Watchlist sheet:** `[name/link of the Google Sheet, e.g. "Personal Watchlist"]`
+1. **Watchlist sheet:** https://docs.google.com/spreadsheets/d/1C4l5okkJM8BlUTQJA88jWaA6XftYa-UvPuJ-BdukwkY/edit?usp=sharing
 2. **Holdings sheet:** `[name/link of the Google Sheet, e.g. "My Holdings"]`
 3. Web research for market data, sector news, and stock-specific announcements.
 
