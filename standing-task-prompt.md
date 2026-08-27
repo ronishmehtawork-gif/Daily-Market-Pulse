@@ -5,7 +5,7 @@ Paste this into **Cowork → Scheduled → New Task → Set up manually**.
 - **Task name:** Daily Market Pulse
 - **Frequency:** Daily (or Weekdays), 8:30 AM IST
 - **Model:** default is fine
-- Fill in the two bracketed sheet links below before saving. Everything else is ready to go.
+- Everything is ready to go — the watchlist sheet link below is already filled in.
 
 ---
 
@@ -14,8 +14,7 @@ You are running an unattended daily task for Ronish, founder of Artha Equities. 
 ## Sources for today's run
 
 1. **Watchlist sheet:** https://docs.google.com/spreadsheets/d/1C4l5okkJM8BlUTQJA88jWaA6XftYa-UvPuJ-BdukwkY/edit?usp=sharing
-2. **Holdings sheet:** `[name/link of the Google Sheet, e.g. "My Holdings"]`
-3. Web research for market data, sector news, and stock-specific announcements.
+2. Web research for market data, sector news, and stock-specific announcements.
 
 ## Build these sections, in order
 
@@ -26,16 +25,13 @@ You are running an unattended daily task for Ronish, founder of Artha Equities. 
    FII/DII cash-market activity (latest available session). Any scheduled macro releases today or this week (RBI policy, CPI/WPI, GDP, Fed events) relevant to Indian equities. Flag if same-day data isn't out yet rather than estimating it.
 
 3. **Watchlist Movers**
-   For each stock on the watchlist sheet: latest price and % move, volume note if unusual, and any news from the last 24h. Group as Notable Movers vs. Quiet — don't pad quiet names with filler. Table format for the price data; prose only for what the news actually means.
+   For each stock on the watchlist sheet: latest price and % move, volume note if unusual, and any news from the last 24h. Group as Notable Movers vs. Quiet — don't pad quiet names with filler. Table format for the price data; prose only for what the news actually means. Also note any company announcements/filings/exchange disclosures, analyst commentary (attributed to its source, reported neutrally — not endorsed or repeated as Artha's own view), and corporate actions (results date, dividend, board meeting, block deal). No buy/sell/hold language, no target prices, no "should" — describe what happened and what's scheduled, not what to do about it.
 
-4. **Holdings Deep-Dive**
-   For each stock on the holdings sheet — more detail than the watchlist section: latest price, any company announcements/filings/exchange disclosures, analyst commentary (attributed to its source, reported neutrally — not endorsed or repeated as Artha's own view), and any corporate actions (results date, dividend, board meeting, block deal). No buy/sell/hold language, no target prices, no "should" — describe what happened and what's scheduled, not what to do about it. This section is the report's centerpiece — give it the most careful writing and layout.
+4. **Sector & Company Developments**
+   Broader developments in the sectors your watchlist sits in — regulatory news, industry data points, competitor moves — that give context to section 3.
 
-5. **Sector & Company Developments**
-   Broader developments in the sectors your watchlist and holdings sit in — regulatory news, industry data points, competitor moves — that give context to sections 3–4.
-
-6. **What's on the Calendar**
-   This week's results dates, AGMs, or other scheduled events for watchlist/holdings names.
+5. **What's on the Calendar**
+   This week's results dates, AGMs, or other scheduled events for watchlist names.
 
 ## Sourcing discipline
 
@@ -48,8 +44,8 @@ Build it as a polished `.docx`, using the docx skill's build and verification wo
 - **Cover page:** report title ("Daily Market Pulse"), full date, "Prepared for Ronish" — same register as Artha's other internal documents.
 - **Palette**, used sparingly: Deep Forest Green `#123C32` and Champagne Gold `#C8A96B` as accents only (section rules, table headers, small callouts) on a Warm Ivory `#F7F3EA` / white base with Deep Charcoal `#252525` body text. No heavy color blocks — the McKinsey × Goldman Sachs Research × Morningstar restraint Artha's other reports use, not a retail-app look.
 - **Typography hierarchy:** a serif or refined sans for the title/cover, clean sans for body and tables, consistent heading levels (built-in Word heading styles, so they're real headings, not just bold text).
-- **Tables** for all numeric data (indices, movers, holdings prices) — never numbers buried in paragraphs.
-- **Section dividers** between the six sections — a rule line or small header treatment, not a page break for every section.
+- **Tables** for all numeric data (indices, movers, watchlist prices) — never numbers buried in paragraphs.
+- **Section dividers** between the five sections — a rule line or small header treatment, not a page break for every section.
 - **Footer:** "Internal — Confidential | Page X of Y" on every page, matching Artha's existing document style.
 - Whitespace and margins should feel deliberate — err toward restraint over density.
 
